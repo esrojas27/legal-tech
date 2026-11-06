@@ -1,0 +1,5 @@
+PLANTILLA TÉCNICA DE EJEMPLO — NO ES UN DOCUMENTO JURÍDICO
+Versión: 0.0.0
+Estado: borrador sin aprobación jurídica
+Campo ilustrativo: {{exampleValue}}
+No habilitada en catálogo ni conectada a un generador.

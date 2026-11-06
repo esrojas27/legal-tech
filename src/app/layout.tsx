@@ -1,0 +1,10 @@
+import type { Metadata } from "next";
+import type { ReactNode } from "react";
+import "./globals.css";
+export const metadata: Metadata = {
+  title: "LegalTech | Documentos paso a paso",
+  description: "Una forma sencilla de preparar tus documentos legales. Próximamente.",
+};
+export default function RootLayout({ children }: { children: ReactNode }) {
+  return <html lang="es"><body>{children}</body></html>;
+}
